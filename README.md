@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=W-y-l-t&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=W-y-l-t&layout=donut&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
 
 <a href="https://git.io/streak-stats">
