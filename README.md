@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=W-y-l-t&theme=tokyonight&card_width=460" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=W-y-l-t&theme=tokyonight&card_width=467" />
 </a>
