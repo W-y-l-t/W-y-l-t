@@ -6,6 +6,6 @@
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=W-y-l-t&layout=donut&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
 
-<p href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=W-y-l-t&theme=tokyonight&card_width=467" />
-</p>
+</a>
