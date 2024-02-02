@@ -4,7 +4,7 @@
 - 🧠 I also know `how to be a good person`
 - 📫 More about me:
 {
-  [🛩️Dmitry Semenov](https://bento.me/wylt)
+  [Dmitry Semenov](https://bento.me/wylt)
 }
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
