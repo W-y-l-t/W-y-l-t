@@ -1,7 +1,7 @@
 - 👋 Hello, I’m `@W-y-l-t`
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning `C++` and `Kotlin`
-- 🧠 I also know `how to be a good person`
+- 🌱 I’m currently learning `Java / Kotlin`
+- 🧠 I also know `C++`
 - 📫 More about me:
 {
   [Dmitry Semenov](https://bento.me/wylt)
