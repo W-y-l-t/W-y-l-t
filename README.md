@@ -1,6 +1,6 @@
 - 👋 Hello, I’m `@W-y-l-t`
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning `Java / Kotlin`
+- 👀 I’m interested in internship offers
+- 🌱 I’m currently learning `C#`
 - 🧠 I also know `C++`
 - 📫 More about me:
 {
