@@ -1,7 +1,6 @@
 - 👋 Hello, I’m `@W-y-l-t`
 - 👀 I’m interested in internship offers
-- 🌱 I’m currently learning `Java`
-- 🧠 I also know `C/C++, C#, MS SQL`
+- 🌱 I’m currently deep learning `.NET`
 - 📫 More about me:
 {
   [Dmitry Semenov](https://bento.me/wylt)
